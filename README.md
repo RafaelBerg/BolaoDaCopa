@@ -56,15 +56,6 @@ Antes de baixar o projeto você vai precisar ter instalado na sua máquina as se
 #### 🎲 Rodando o Backend (servidor)
 
 ```bash
-# Clone este repositório
-$ git clone git@github.com:pabloxt14/NLW-Copa.git
-
-# Acesse a pasta do projeto no terminal/cmd
-$ cd NLW-Copa
-
-# Vá para a pasta server
-$ cd server
-
 # Instale as dependências
 $ npm install
 
